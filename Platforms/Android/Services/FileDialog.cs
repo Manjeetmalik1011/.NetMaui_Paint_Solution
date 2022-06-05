@@ -1,4 +1,4 @@
-﻿namespace MauiPaint.Platforms.Android.Services;
+﻿namespace DotNetMauiDrawingViewPaintAppSample.Platforms.Android.Services;
 
 using global::Android;
 using global::Android.App;

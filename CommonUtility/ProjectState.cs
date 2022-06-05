@@ -1,4 +1,4 @@
-﻿namespace MauiPaint;
+﻿namespace DotNetMauiDrawingViewPaintAppSample;
 
 using CommunityToolkit.Maui.Core;
 using Figures;

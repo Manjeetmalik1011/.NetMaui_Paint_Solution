@@ -1,4 +1,4 @@
-﻿namespace MauiPaint.Services;
+﻿namespace DotNetMauiDrawingViewPaintAppSample.Services;
 
 public interface IDialogService
 {

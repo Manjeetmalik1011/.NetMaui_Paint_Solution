@@ -1,7 +1,7 @@
-﻿namespace MauiPaint.Platforms.Services;
+﻿namespace DotNetMauiDrawingViewPaintAppSample.Platforms.Services;
 
 using Foundation;
-using MauiPaint.Services;
+using DotNetMauiDrawingViewPaintAppSample.Services;
 using UIKit;
 
 public class DialogService : IDialogService

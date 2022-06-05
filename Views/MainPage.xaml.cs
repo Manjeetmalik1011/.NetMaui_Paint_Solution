@@ -1,7 +1,7 @@
 ﻿namespace DotNetMauiDrawingViewPaintAppSample.Views;
 
 using System.Windows.Input;
-using MauiPaint;
+using DotNetMauiDrawingViewPaintAppSample;
 
 public partial class MainPage : ContentPage
 {

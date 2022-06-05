@@ -1,7 +1,7 @@
-﻿namespace MauiPaint.Platforms.Services;
+﻿namespace DotNetMauiDrawingViewPaintAppSample.Platforms.Services;
 
 using Android.Services;
-using MauiPaint.Services;
+using DotNetMauiDrawingViewPaintAppSample.Services;
 
 public class DialogService : IDialogService
 {

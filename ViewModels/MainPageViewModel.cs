@@ -1,4 +1,4 @@
-﻿namespace MauiPaint;
+﻿namespace DotNetMauiDrawingViewPaintAppSample;
 using System.Collections.Immutable;
 using System.Collections.ObjectModel;
 using CommunityToolkit.Maui.Alerts;
@@ -8,8 +8,8 @@ using CommunityToolkit.Maui.Views;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using Figures;
-using MauiPaint.Serializer;
-using MauiPaint.Services;
+using DotNetMauiDrawingViewPaintAppSample.Serializer;
+using DotNetMauiDrawingViewPaintAppSample.Services;
 
 public partial class MainPageViewModel : ObservableObject
 {

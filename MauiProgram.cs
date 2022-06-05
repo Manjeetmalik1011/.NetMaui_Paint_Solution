@@ -1,10 +1,10 @@
 ﻿using CommunityToolkit.Maui;
 using CommunityToolkit.Maui.Markup;
 using DotNetMauiDrawingViewPaintAppSample.Views;
-using MauiPaint;
-using MauiPaint.Platforms.Services;
-using MauiPaint.Serializer;
-using MauiPaint.Services;
+using DotNetMauiDrawingViewPaintAppSample;
+using DotNetMauiDrawingViewPaintAppSample.Platforms.Services;
+using DotNetMauiDrawingViewPaintAppSample.Serializer;
+using DotNetMauiDrawingViewPaintAppSample.Services;
 
 namespace DotNetMauiDrawingViewPaintAppSample;
 

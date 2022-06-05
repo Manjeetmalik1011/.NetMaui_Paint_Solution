@@ -1,4 +1,4 @@
-﻿namespace MauiPaint.Serializer;
+﻿namespace DotNetMauiDrawingViewPaintAppSample.Serializer;
 
 using System.Text.Json;
 using System.Text.Json.Serialization;

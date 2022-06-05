@@ -1,4 +1,4 @@
-namespace MauiPaint.Figures;
+namespace DotNetMauiDrawingViewPaintAppSample.Figures;
 
 public class Ellipse : IFigure
 {

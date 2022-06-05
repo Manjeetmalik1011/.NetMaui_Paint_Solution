@@ -1,4 +1,4 @@
-﻿namespace MauiPaint.Serializer;
+﻿namespace DotNetMauiDrawingViewPaintAppSample.Serializer;
 
 public interface ISerializerService
 {

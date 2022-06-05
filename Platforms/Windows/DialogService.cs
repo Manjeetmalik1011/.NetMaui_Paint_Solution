@@ -1,8 +1,8 @@
-﻿namespace MauiPaint.Platforms.Services;
+﻿namespace DotNetMauiDrawingViewPaintAppSample.Platforms.Services;
 
 using System.Diagnostics;
 using Windows.Storage.Pickers;
-using MauiPaint.Services;
+using DotNetMauiDrawingViewPaintAppSample.Services;
 
 public class DialogService : IDialogService
 {
