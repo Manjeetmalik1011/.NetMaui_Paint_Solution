@@ -61,7 +61,7 @@ public partial class MainPageViewModel : ObservableObject
 	[ICommand]
 	Task About()
 	{
-		return Launcher.OpenAsync("https://vladislavantonyuk.azurewebsites.net");
+		return Launcher.OpenAsync("https://github.com/Manjeetmalik1011");
 	}
 
 	[ICommand]
