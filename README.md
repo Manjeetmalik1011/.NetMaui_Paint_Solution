@@ -38,6 +38,12 @@ In order to make use of the toolkit within XAML you can use this namespace:
 
 xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
 
+<img width="918" alt="Screenshot 2022-06-05 at 6 01 08 PM" src="https://user-images.githubusercontent.com/100989615/172052791-239ac697-aec5-4b41-b0f8-5f5f78d70e63.png">
 
+![imgonline-com-ua-twotoone-SrJgdmnjCyoAb](https://user-images.githubusercontent.com/100989615/172052809-f417fea1-ed93-4636-b0c2-bebbf17bf088.jpg)
+	
+![imgonline-com-ua-twotoone-D7kbB4z99gdmg](https://user-images.githubusercontent.com/100989615/172052833-bf60d3db-0d50-439b-8979-4238743ff7ce.jpg)
+	
+<img width="914" alt="Screenshot 2022-06-05 at 6 02 17 PM" src="https://user-images.githubusercontent.com/100989615/172052866-18661387-5d12-4bcb-89be-1decbd9202f2.png">
 
 
