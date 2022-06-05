@@ -1,4 +1,4 @@
-# .NET MAUI Community Toolkit Popup Solution
+# .NET MAUI Community Toolkit Drawing View Pain Application Sample
 
 The .NET MAU Community Toolkit is a collection of common elements for mobile development with .Net MAUI that people tend to replicate across multiple apps. It simplifies and demonstrates common developer tasks when building apps with Xamarin.Forms.
 
@@ -38,9 +38,6 @@ In order to make use of the toolkit within XAML you can use this namespace:
 
 xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
 
-<img width="1070" alt="Screenshot 2022-05-29 at 2 50 23 PM" src="https://user-images.githubusercontent.com/100989615/170861241-b8a4262e-1606-4f28-97e2-10fbacbe4368.png">
-	
-<img width="1070" alt="Screenshot 2022-05-29 at 2 50 23 PM" src="https://user-images.githubusercontent.com/100989615/170861373-3ac15376-d9bc-4762-a27a-64783d8b7dca.jpg">
-	
+
 
 
